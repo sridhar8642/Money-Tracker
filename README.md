@@ -1,5 +1,5 @@
 # Money Tracker Web App
-ðŸ“Š Manage your expenses and income with this simple web app built using Node.js, Express, and MongoDB.
+Manage your expenses and income with this simple web app built using Node.js, Express, and MongoDB.
 ## Features
 - **Add Transactions:** Record your expenses and income easily.
 - **View Transactions:** See a list of all your transactions.
